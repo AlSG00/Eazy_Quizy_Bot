@@ -9,48 +9,45 @@ quiz_data = [
         'question': 'Какой тип данных используется для хранения целых чисел?',
         'options': ['int', 'float', 'str', 'natural'],
         'correct_option': 0
-    } 
-    # {
-    #     'question': 'Какая библиотека Python используется для работы с высокоуровневыми математическими функциями',
-    #     'options': ['pandas', 'numpy', 'matplotlib', 'os'],
-    #     'correct_option': 1
-    # },    
-    # {
-    #     'question': 'Поддерживает ли Python многопоточность',
-    #     'options': ['Да', 'Нет'],
-    #     'correct_option': 0
-    # },    
-    # {
-    #     'question': 'Как называется вычислительный элемент, являющийся базовой единицей для построения искуственных нейронных сетей',
-    #     'options': ['Градиент', 'Тензор', 'Матрица', 'Нейрон'],
-    #     'correct_option': 3
-    # },    
-    # {
-    #     'question': '',
-    #     'options': ['int', 'float', 'str', 'natural'],
-    #     'correct_option': 0
-    # },    
-    # {
-    #     'question': '',
-    #     'options': ['int', 'float', 'str', 'natural'],
-    #     'correct_option': 0
-    # },    
-    # {
-    #     'question': '',
-    #     'options': ['int', 'float', 'str', 'natural'],
-    #     'correct_option': 0
-    # },    
-    # {
-    #     'question': '',
-    #     'options': ['int', 'float', 'str', 'natural'],
-    #     'correct_option': 0
-    # },    
-    # {
-    #     'question': '',
-    #     'options': ['int', 'float', 'str', 'natural'],
-    #     'correct_option': 0
-    # },
-    
-    
-    # Добавьте другие вопросы
+    },
+    {
+        'question': 'Какая библиотека Python используется для работы с высокоуровневыми математическими функциями',
+        'options': ['pandas', 'numpy', 'matplotlib', 'os'],
+        'correct_option': 1
+    },    
+    {
+        'question': 'Поддерживает ли Python многопоточность',
+        'options': ['Да', 'Нет'],
+        'correct_option': 0
+    },    
+    {
+        'question': 'Как называется вычислительный элемент, являющийся базовой единицей для построения искуственных нейронных сетей',
+        'options': ['Градиент', 'Тензор', 'Матрица', 'Нейрон'],
+        'correct_option': 3
+    },    
+    {
+        'question': 'В Python какая структура данных объявляется с помощью фигурных скобок {}?',
+        'options': ['Кортеж', 'Лист', 'Словарь', 'Стек'],
+        'correct_option': 2
+    },    
+    {
+        'question': 'Какая библиотека позволяет отрисовывать графики?',
+        'options': ['seaborn', 'pandas', 'asyncio', 'numpy'],
+        'correct_option': 0
+    },    
+    {
+        'question': 'Как называется функция, способная приостанавливаться, а затем продолжать выполнение с места последней приостановки?',
+        'options': ['Процесс', 'Метод', 'Поток', 'Сопрограмма'],
+        'correct_option': 3
+    },    
+    {
+        'question': 'Какая структура данных является неизменяемой?',
+        'options': ['Словарь', 'Кортеж', 'Лист', 'Стек'],
+        'correct_option': 1
+    },    
+    {
+        'question': 'Какая структура позволяет нам описать новый тип?',
+        'options': ['Функция', 'Процесс', 'Класс', 'Сопрограмма'],
+        'correct_option': 2
+    }
 ]
